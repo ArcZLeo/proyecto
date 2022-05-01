@@ -237,7 +237,8 @@ while True:
     git commit -m "Primera parte"
     git push -u origin main
     ```
-    
+    ![image](https://user-images.githubusercontent.com/79063417/166128767-a3b4a9e2-3a11-4b5d-8367-34824cac553c.png)
 
 
+	
 
